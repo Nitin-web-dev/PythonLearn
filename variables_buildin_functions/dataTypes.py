@@ -4,6 +4,7 @@
 # Checking Data types and Casting
 # Check Data types: To check the data type of certain data/variable we use the type Example:
 # # Different python data types
+
 # # Let's declare variables with various data types
 
 # first_name = 'Asabeneh'     # str
